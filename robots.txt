@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dicidinec.github.io/sitemap
+Sitemap: https://dicidinec.github.io/app/sitemap
+Sitemap: https://dicidinec.github.io/assets/sitemap
+Sitemap: https://dicidinec.github.io/css/sitemap
+Sitemap: https://dicidinec.github.io/includes/sitemap
+Sitemap: https://dicidinec.github.io/item/sitemap
+Sitemap: https://dicidinec.github.io/src/sitemap
